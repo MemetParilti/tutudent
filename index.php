@@ -13,6 +13,6 @@ $query_builder = TRUE;
 $conn = mysqli_connect($cleardb_server, $cleardb_username, $cleardb_password, $cleardb_db);
 
 
-echo "hello there"
+echo "temporary test page                Head to:  https://tutudent.herokuapp.com/login.php "
 
 ?>
